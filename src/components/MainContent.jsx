@@ -29,7 +29,7 @@ const MainContent = () => {
   return (
     <div className="flex-1 min-h-screen pb-[15vh] relative">
       <div className="flex items-center justify-between text-xl p-5 text-slate-700">
-        <p>Gemini</p>
+        <p>GemTwin</p>
         <FaUserCircle />
       </div>
 
@@ -39,7 +39,7 @@ const MainContent = () => {
             <div className="my-12 text-[56px] text-slate-500 font-semibold p-5">
               <p>
                 <span className="bg-gradient-to-r from-[#368ddd] to-[#ff5546] bg-clip-text text-transparent">
-                  Hello, Arya.
+                  Hello, Prince.
                 </span>
               </p>
 
